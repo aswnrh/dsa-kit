@@ -1,0 +1,7 @@
+| Complexity | Meaning           |
+| ---------- | ----------------- |
+| O(1)       | constant          |
+| O(log n)   | very fast         |
+| O(n)       | linear            |
+| O(n log n) | good sorting      |
+| O(n²)      | slow for big data |
